@@ -4,7 +4,7 @@ import javax.swing.*;
 
 /**
  * 
- * @author Nathan Kidanemariam and Moosay Hailewold
+ * @author  Moosay Hailewold
  * This GUI allows the user to select the level depending on a button and then
  * the button links to the game
  *
