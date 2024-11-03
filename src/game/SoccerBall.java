@@ -9,7 +9,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 /**
  * 
- * @author Nathan Kidanemariam and Moosay Hailewold
+ * @author Moosay Hailewold
  * Represents the ball in our program. User can control this ball and must 
  * dribble up the field and score.
  *
