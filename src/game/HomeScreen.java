@@ -9,7 +9,7 @@ import javax.swing.JPanel;
 
 /**
  * 
- * @author Nathan Kidanemariam and Moosay Hailewold
+ * @author Moosay Hailewold
  * HomeScreen to make our game more appealing. We used an image of a man 
  * controlling a soccer ball with the title on the side.
  *
