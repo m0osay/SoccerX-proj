@@ -8,7 +8,7 @@ import javax.swing.Timer;
 
 /**
  * 
- * @author Nathan Kidanemariam and Moosay Hailewold
+ * @author Moosay Hailewold
  * SoccerX is the heart of our Code as it serves as the frame where all of our
  * objects get instantialized, painted, and then updated. 
  *
