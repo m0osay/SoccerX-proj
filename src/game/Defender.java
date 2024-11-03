@@ -5,7 +5,7 @@ import java.awt.*;
 
 /**
  * 
- * @author Nathan Kidanemariam and Moosay Hailewold
+ * @author  Moosay Hailewold
  * Represents our defender in the game. This is not a moveable character 
  * although it does move, the user can't move it. 
  *
